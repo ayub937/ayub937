@@ -23,4 +23,4 @@ Public speaking and technical workshops
 Connect with me
 | LinkedIn: (https://www.linkedin.com/in/ayub-salad-1858b0215/)
 
-https://banner2.cleanpng.com/20180509/pee/kisspng-python-source-code-computer-icons-computer-program-5af297f408a5d6.6942683115258480520354.jpg
+
