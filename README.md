@@ -1,4 +1,4 @@
-Hello World! 👋 I'm Ayub, a recent Computer Science graduate from the University of London. I'm passionate about building scalable applications using Python and sharing my knowledge with others through tech talks and workshops.
+Hello World! 👋 I'm Ayub, a recent Computer Science graduate from the University of Kingston. I'm passionate about building scalable applications using Python and sharing my knowledge with others through tech talks and workshops.
 
 🔭 Currently exploring new opportunities in software development and data science
 
