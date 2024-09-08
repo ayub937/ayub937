@@ -21,4 +21,4 @@ Public speaking and technical workshops
 
 
 Connect with me
-Twitter: @ayub_dev | LinkedIn: (https://www.linkedin.com/in/ayub-salad-1858b0215/)
+| LinkedIn: (https://www.linkedin.com/in/ayub-salad-1858b0215/)
